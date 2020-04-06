@@ -1,0 +1,6 @@
+id=MagiskRuntimeResourceOverlay
+name=Magisk Runtime Resource Overlay
+version=v1
+versionCode=100
+author=Milkice, ysc3839
+description=Template for building Android Runtime Resource Overlay magisk module
