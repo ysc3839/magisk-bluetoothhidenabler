@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-APK_NAME=MagiskRRO
+APK_NAME=BluetoothHIDEnabler
 OVERLAY_PATH=system/vendor/overlay
 
 [ -z "${ANDROID_HOME}" ] && {

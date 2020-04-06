@@ -1,6 +1,6 @@
-id=MagiskRuntimeResourceOverlay
-name=Magisk Runtime Resource Overlay
+id=BluetoothHIDEnabler
+name=Bluetooth HID Enabler
 version=v1
 versionCode=100
-author=Milkice, ysc3839
-description=Template for building Android Runtime Resource Overlay magisk module
+author=ysc3839
+description=A simple magisk module to enable Bluetooth HID using Runtime Resource Overlay
