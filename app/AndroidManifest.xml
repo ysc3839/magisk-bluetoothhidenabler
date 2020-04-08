@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.bluetooth.overlay.hidenabler" platformBuildVersionCode="28" platformBuildVersionName="9">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.android.bluetooth.overlay.hidenabler" platformBuildVersionCode="28" platformBuildVersionName="9">
+    <uses-sdk android:minSdkVersion="28" android:targetSdkVersion="28"/>
     <overlay android:isStatic="true" android:priority="1000" android:targetPackage="com.android.bluetooth"/>
 </manifest>
