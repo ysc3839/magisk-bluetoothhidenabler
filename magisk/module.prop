@@ -1,6 +1,6 @@
 id=BluetoothHIDEnabler
 name=Bluetooth HID Enabler
-version=v1
-versionCode=100
+version=v2
+versionCode=200
 author=ysc3839
 description=A simple magisk module to enable Bluetooth HID using Runtime Resource Overlay

@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "Magisk Runtime Resource Overlay"
+  ui_print "     Bluetooth HID Enabler     "
   ui_print "*******************************"
 }
 
